@@ -388,7 +388,7 @@ function addReservation($user_id, $selectedDate, $slot_time, $username) {
         </form>
 
     </div>
-<h2>asdasd</h2>
+
 </div>
 </body>
 </html>
